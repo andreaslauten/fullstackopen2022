@@ -1,0 +1,1 @@
+($env:REACT_APP_API_KEY="3e8ba52767bc49c181b39bce1c94b3b5") -and (npm start)
